@@ -1,0 +1,9 @@
+*.jpg
+*.pth
+
+./hum
+*.txt
+*.json
+*.pkl
+*.egg
+./human_crop/ro
