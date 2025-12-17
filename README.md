@@ -11,7 +11,7 @@ Our study focuses on image cropping which aims to  improve the aesthetic quality
 the importance of each local region. GACE aligns and fuses the features of the cropping regions with the global feature to make it sensitive to the boundary of the cropping box.
 
 <div align="center">
-  <img src='https://github.com/Computational-Image-Learning-Center/Global-Attention-fused-Image-Cropping/blob/main/figure/pipeline.png' align="center" width=800>
+  <img src='https://github.com/ZGVIR/GAFIC/blob/main/figure/pipeline.png' align="center" width=800>
 </div>
 
 ## Results
@@ -19,7 +19,7 @@ the importance of each local region. GACE aligns and fuses the features of the c
 In the below figure, we present the existing state-of-the-art methods side by side with our method, which demonstrates that our method outperforms other existing methods in terms of expression of the importance of different local regions and perception ability of the boundary areas of the cropping boxes. For images with clear objects in columns (A), (D), and (E), our results on different types of images are close to the true values. For example, foot movement is truncated by VEN [36] when a person is in the center of the image (A), while our method retains the details of the foot movement while highlighting the object.
 
 <div align="center">
-  <img src='https://github.com/Computational-Image-Learning-Center/Global-Attention-fused-Image-Cropping/blob/main/figure/qaulitative_comparison.png' align="center" width=800>
+  <img src='https://github.com/ZGVIR/GAFIC/blob/main/figure/qaulitative_comparison.png' align="center" width=800>
 </div>
 
 
